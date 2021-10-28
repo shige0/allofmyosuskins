@@ -1,5 +1,8 @@
 # shige0's personal osu skins
 
+
+<h3><a href="https://download1581.mediafire.com/1aaljpgjdbjg/fanc9pnrt2jrgys/-++%23+Shige0+%281.0%29+%E3%80%8ECK%E3%80%8F.osk">-  # Shige0 (1.0) 『CK』28/10/2021</a></h3>
+<img src="https://user-images.githubusercontent.com/93320629/139322346-c929794c-8a43-444c-98af-024dc29ee643.png">
 <h3><a href="https://download1077.mediafire.com/dwwvn83f0hpg/cn761dyc9qwg66x/blooxwhitecat+28.10.2021+%28edited+ny+shige0%29.osk">blooxwhitecat  28/10/2021</a></h3>
 <img src="https://user-images.githubusercontent.com/93320629/139238416-3eae4b06-83ea-4965-86a3-8fd0a362fb8b.png">
 <h3><a href="https://download1078.mediafire.com/9ptte9i7tx2g/gr2derih2b986y6/shige0+DT+28.10.2021.osk">shige0 DT 28/10/2021</a></h3>
@@ -14,3 +17,4 @@
 <img src="https://user-images.githubusercontent.com/93320629/139241421-aebc8ed2-0c82-44f9-99f7-897d17ac9ff8.png">
 <h2>IMPORTANT NOTE</h2>
 <h3>THE OTHER SKINS I USED ARE FORBBIDEN AND I CANT FIND ANY DOWNLOAD LINK</h3>
+
