@@ -1,6 +1,9 @@
 # shige0's personal osu skins
 
-
+<h3><a href="https://download1587.mediafire.com/nnthbybdyjyg/2bqijmqv51sbo43/-+++++%23+Shige0+CK+%28WWW+2.2%29.osk">Shige0 CK 01/11/21 (WWW 2.2)</a></h3>
+<img src="https://user-images.githubusercontent.com/93320629/139700274-4f02ab16-28d1-4903-aa82-4ac215dccfee.png">
+<h3><a href="https://download1506.mediafire.com/e2nhhbnsagyg/lxqblvoobu3vcbm/-++++%23+Shige0+DT.osk">Shige0 DT 01/11/21</a></h3>
+<img src="https://user-images.githubusercontent.com/93320629/139700250-2cfb007f-3223-4f72-8d9a-d6773bf1b3ae.png">
 <h3><a href="https://download1581.mediafire.com/1aaljpgjdbjg/fanc9pnrt2jrgys/-++%23+Shige0+%281.0%29+%E3%80%8ECK%E3%80%8F.osk">-  # Shige0 (1.0) 『CK』28/10/2021</a></h3>
 <img src="https://user-images.githubusercontent.com/93320629/139322346-c929794c-8a43-444c-98af-024dc29ee643.png">
 <h3><a href="https://download1077.mediafire.com/dwwvn83f0hpg/cn761dyc9qwg66x/blooxwhitecat+28.10.2021+%28edited+ny+shige0%29.osk">blooxwhitecat  28/10/2021</a></h3>
